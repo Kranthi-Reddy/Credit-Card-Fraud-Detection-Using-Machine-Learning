@@ -2,5 +2,4 @@
 Software:
     Jupyter Notebook (Recommended)
     Python IDLE
-Language:
-    Python
+
